@@ -1,2 +1,2 @@
 github "kean/Nuke" ~> 12.0
-github "airbnb/lottie-ios" "master"
+github "airbnb/lottie-ios" ~> 4.2.0
